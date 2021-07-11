@@ -1,0 +1,13 @@
+/* AirBnB clone css (#2_footer_style) files */
+
+footer {
+    background-color: #00FF00;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,11 @@
+/* AirBnB clone css (#2_header_style) files */
+
+header {
+    background-color: #FF0000;
+    height: 70px;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+}
