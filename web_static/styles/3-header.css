@@ -1,7 +1,7 @@
 /* AirBnB clone css (#3_header_style) files */
 
 header {
-    background-image: url("../images/AirBnB_logo.png");
+    background-image: url("../images/logo.png");
     background-position: 20px 50%;
     background-repeat: no-repeat;
     background-color: white;
